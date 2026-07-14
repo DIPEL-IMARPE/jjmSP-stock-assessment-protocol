@@ -1,14 +1,3 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/IMARPE-DIPEL--IMARPE-0B2D4D?style=for-the-badge" alt="DIPEL-IMARPE"/>
-  <img src="https://img.shields.io/badge/JJM-Model%20Protocol-007C89?style=for-the-badge" alt="JJM Model Protocol"/>
-  <img src="https://img.shields.io/badge/Status-Draft-6B7280?style=for-the-badge" alt="Draft status"/>
-</p>
-
-<p align="center">
-  <strong>Dirección de Investigaciones del Subsistema Pelágico</strong><br>
-  <strong>Instituto del Mar del Perú — IMARPE</strong>
-</p>
-
 # Joint Jack Mackerel Model Protocol
 
 ## User guide and mathematical specification of the JJM model
